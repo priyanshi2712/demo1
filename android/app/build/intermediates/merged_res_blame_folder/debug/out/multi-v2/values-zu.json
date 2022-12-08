@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.demo.app-mergeDebugResources-9:/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\priyanshi navadiya\\.gradle\\caches\\transforms-3\\4afcc6eb21540f37443546848d7ec7a8\\transformed\\core-1.7.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
